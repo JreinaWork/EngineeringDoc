@@ -6,10 +6,10 @@ Moves Into
 
 Begins With
 	(PDRD)	Prototype Definition & Requirements
-	(IDD)	Internal Description Document
 
 Becomes
 	(PRD)	Product Requirements
+	(IDD)	Internal Description Document
 
 Delivered As
 	(PDD)	Product Description
