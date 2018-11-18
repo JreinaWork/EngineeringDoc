@@ -1,0 +1,19 @@
+
+Starts With
+  (PRS)		Problem Statement
+  (PRD)		Product Description Summary
+
+Moves Into
+  (DPR)		Design Prompt
+
+Begins With
+  (PDRD)	Prototype Definition & Requirements
+  (TDD) 	The Design Document
+
+Becomes
+  (PRD)		Product Requirements
+  (IDD)		Internal Description Document
+
+Delivered As
+  (PDD)		Product Description
+  (Man)		User's Manual
