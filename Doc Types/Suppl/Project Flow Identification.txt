@@ -1,7 +1,7 @@
 
 Starts With
   (PRS)		Problem Statement
-  (PRD)		Product Description Summary
+  (SUMM)	Product Description Summary
 
 Moves Into
   (DPR)		Design Prompt
